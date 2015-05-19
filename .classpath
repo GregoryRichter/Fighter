@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="F:/GregoryRichter/Fighter/jl1.0.jar"/>
+	<classpathentry kind="lib" path="F:/GregoryRichter/Fighter/core.jar"/>
+	<classpathentry kind="lib" path="C:/Processing 2/processing-2.0b8-windows32/processing-2.0b8/core/library/core.jar"/>
+	<classpathentry kind="lib" path="/Volumes/NO NAME/GregoryRichter/Fighter/core.jar"/>
+	<classpathentry kind="lib" path="/Volumes/NO NAME/GregoryRichter/Fighter/jl1.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
