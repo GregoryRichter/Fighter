@@ -8,5 +8,7 @@
 	<classpathentry kind="lib" path="/Volumes/NO NAME/GregoryRichter/Fighter/core.jar"/>
 	<classpathentry kind="lib" path="/Volumes/NO NAME/GregoryRichter/Fighter/jl1.0.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Volumes/NO NAME 1/GregoryRichter/Fighter/core.jar"/>
+	<classpathentry kind="lib" path="/Volumes/NO NAME 1/GregoryRichter/Fighter/jl1.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
